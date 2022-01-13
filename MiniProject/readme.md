@@ -1,7 +1,7 @@
 
 # CS284 Mini-Project: Unconstrained Ear Recognition through SOTA Machine Learning Models: A Survey
 
-#### Marwin B. Alejo - 2020-2022 | January 2022
+#### Marwin B. Alejo - 2020-20221 | January 2022
 This paper presented a preliminary result of the performance of selected known and new state-of-the-art machine learning networks on ear biometrics tasks. Provided a straightforward deep learning pipeline, this paper determined the performance of ResNets, ResNeXt, ViT and its known new variants, and ResMLP and MLP-Mixer for ear recognition. Results show that ResNets achieve optimal performance while Transformer-based, particularly the vanilla Vision Transformer, achieve greater performance over its variants and MLP-centric networks on ear recognition or biometrics.
 
 ## Deep Learning Pipeline
