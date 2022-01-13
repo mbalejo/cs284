@@ -4,6 +4,13 @@
 #### Marwin B. Alejo - 2020-20221 | January 2022
 This paper presented a preliminary result of the performance of selected known and new state-of-the-art machine learning networks on ear biometrics tasks. Provided a straightforward deep learning pipeline, this paper determined the performance of ResNets, ResNeXt, ViT and its known new variants, and ResMLP and MLP-Mixer for ear recognition. Results show that ResNets achieve optimal performance while Transformer-based, particularly the vanilla Vision Transformer, achieve greater performance over its variants and MLP-centric networks on ear recognition or biometrics.
 
+## Video Presentation may be accessed through the following link:
+1. ![Google Drive](https://drive.google.com/file/d/1yailz4_m8fiJWIBLIpQJpMvOWvV4Mfra/view?usp=sharing)
+
+## Presentation Slides may be accessed through the following link:
+1. ![PPTX](https://github.com/mbalejo/CS284/blob/main/MiniProject/PPT%20Unconstrained%20Ear%20Recognition%20through%20State-of-the-Art%20Machine%20Learning%20Models%20-%20Marwin%20Alejo.pptx)
+2. ![PDF](https://github.com/mbalejo/CS284/blob/main/MiniProject/PPT%20Unconstrained%20Ear%20Recognition%20through%20State-of-the-Art%20Machine%20Learning%20Models%20-%20Marwin%20Alejo.pdf)
+
 ## Deep Learning Pipeline
 The deep learning pipeline of this paper consisted of four stages as shown in the image below.
 
